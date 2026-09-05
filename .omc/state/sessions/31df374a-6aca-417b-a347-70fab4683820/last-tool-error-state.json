@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"ls /Users/insujo/Desktop/project/hanhaw/hanwha_0902/.claude 2>/dev/null; cat /Users/insujo/.claude/projects/-Users-insujo-Desktop-project-hanhaw-hanwha-0902/memory/MEMORY.md 2>/dev/null\",\"...",
-  "error": "Exit code 1\nsettings.local.json",
-  "timestamp": "2026-09-04T12:36:49.174Z",
-  "retry_count": 1
-}
