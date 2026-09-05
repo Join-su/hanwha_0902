@@ -1,0 +1,216 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1788525191676,
+  "projectRoot": "/Users/insujo/Desktop/project/hanhaw/hanwha_0902",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "ex0902": {
+      "path": "ex0902",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1788525191664,
+      "keyFiles": [
+        "test.py"
+      ]
+    },
+    "ex0903": {
+      "path": "ex0903",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1788525191666,
+      "keyFiles": [
+        "test.py"
+      ]
+    },
+    "ex0904": {
+      "path": "ex0904",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1788525191666,
+      "keyFiles": [
+        "test.py"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "ex0903/04_data_types.py",
+      "accessCount": 3,
+      "lastAccessed": 1788526240521,
+      "type": "file"
+    },
+    {
+      "path": "ex0903/05_numbers.py",
+      "accessCount": 3,
+      "lastAccessed": 1788526241121,
+      "type": "file"
+    },
+    {
+      "path": "ex0902/01_google-classroom.md",
+      "accessCount": 2,
+      "lastAccessed": 1788525819822,
+      "type": "file"
+    },
+    {
+      "path": "ex0903/01_syntax.py",
+      "accessCount": 2,
+      "lastAccessed": 1788526236567,
+      "type": "file"
+    },
+    {
+      "path": "ex0903/02_comments.py",
+      "accessCount": 2,
+      "lastAccessed": 1788526238185,
+      "type": "file"
+    },
+    {
+      "path": "ex0903/03_variables.py",
+      "accessCount": 2,
+      "lastAccessed": 1788526238715,
+      "type": "file"
+    },
+    {
+      "path": "ex0902/test.py",
+      "accessCount": 1,
+      "lastAccessed": 1788525395785,
+      "type": "file"
+    },
+    {
+      "path": "ex0903/test.py",
+      "accessCount": 1,
+      "lastAccessed": 1788525396273,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/test.py",
+      "accessCount": 1,
+      "lastAccessed": 1788525396587,
+      "type": "file"
+    },
+    {
+      "path": "ex0902/02_python-install.md",
+      "accessCount": 1,
+      "lastAccessed": 1788525823445,
+      "type": "file"
+    },
+    {
+      "path": "ex0902/03_vscode-install.md",
+      "accessCount": 1,
+      "lastAccessed": 1788525826824,
+      "type": "file"
+    },
+    {
+      "path": "ex0903/06_colab.md",
+      "accessCount": 1,
+      "lastAccessed": 1788526179884,
+      "type": "file"
+    },
+    {
+      "path": "ex0903/07_streamlit_1.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526180249,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/01_strings.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526568090,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/02_booleans.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526568632,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/03_operators.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526569663,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/04_lists.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526570246,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/05_dictionaries.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526571598,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/06_functions.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526571963,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/07_methods.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526573499,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/08_classes.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526574574,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/09_inheritance.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526575138,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/10_numpy.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526576205,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/11_streamlit_2.py",
+      "accessCount": 1,
+      "lastAccessed": 1788526577321,
+      "type": "file"
+    },
+    {
+      "path": "ex0904/12_github-guide.md",
+      "accessCount": 1,
+      "lastAccessed": 1788526579448,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
