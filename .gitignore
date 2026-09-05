@@ -8,6 +8,7 @@ __pycache__/
 
 .claude
 .omc
+.DS_Store
 
 # Distribution / packaging
 .Python
