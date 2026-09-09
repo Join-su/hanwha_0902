@@ -8,7 +8,7 @@ pip install fastapi[standard]
 ## Fastapi 실행
 
 ``` bash
-unichorn main:app --reload
+uvicorn main:app --reload
 ```
 or
 ``` bash
